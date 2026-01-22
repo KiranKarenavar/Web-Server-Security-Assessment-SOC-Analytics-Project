@@ -133,6 +133,6 @@ No real-world systems, networks, or organizations were targeted.
 ## Contact
 Email: kirankarenavar15@gmail.com
 
-LinkedIn: https://linkedin.com/in/yourprofile  
+LinkedIn: https://www.linkedin.com/in/kiran-karenavar 
 
 GitHub: https://github.com/KiranKarenavar
